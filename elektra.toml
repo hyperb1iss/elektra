@@ -3,8 +3,8 @@ spacing = 2
 padding = 0
 hide_ascii = false
 separator = "»"
-key_color = "#583ba3"
-separator_color = "#FF79C6" # Pink
+key_color = "#392a56"        # Purple for keys
+separator_color = "#7f3c75"  # Magenta for separators
 
 [palette]
 type = "Dark"
